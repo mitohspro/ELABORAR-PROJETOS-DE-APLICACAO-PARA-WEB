@@ -1,5 +1,5 @@
 # ELABORAR-PROJETOS-DE-APLICACAO-PARA-WEB
-ELABORAÇO
+Curso Senac
 
 ## Etapa 01: Planejar e analisar
  Durante o planejamento nós os desenvolvedores responemos algumas questões entre elas: quais recursos que serã necessá e como podemos atender suas necessidades.
